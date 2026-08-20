@@ -20,6 +20,13 @@
       "vence": "2026-12-31",
       "cliente": "CLIENTE011",
       "equipoId": ""
+    },
+    {
+      "clave": "CLIENTE012",
+      "activo": true,
+      "vence": "2026-12-31",
+      "cliente": "CLIENTE012",
+      "equipoId": "pc_t6fvme09mt1zza5f"
     }
   ]
 }
